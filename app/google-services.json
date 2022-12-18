@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "293185968803",
+    "project_id": "smart-agenda-b83a0",
+    "storage_bucket": "smart-agenda-b83a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293185968803:android:fb1d6370edbdd43478bd16",
+        "android_client_info": {
+          "package_name": "com.zahideaksak.smartagenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293185968803-03jngpnqcct2io46uq8m2edsvkecp4r5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zahideaksak.smartagenda",
+            "certificate_hash": "c131322c25af578e92048777815353164da2201f"
+          }
+        },
+        {
+          "client_id": "293185968803-k8bdmhrqdbuid22tqdqo4iqsk7l243t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Xx30PMMuvw8ZsPbGekEzVUPPwXbmSxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293185968803-k8bdmhrqdbuid22tqdqo4iqsk7l243t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
