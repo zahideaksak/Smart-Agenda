@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var adapter: ToDoAdapter
 
     override fun onCreate(savedInstanceState: Bundle?) {
+
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
@@ -46,7 +47,7 @@ class MainActivity : AppCompatActivity() {
         rcView.layoutManager = LinearLayoutManager(this)
 
         val todoCollection = toDoDao.taskCollection
-        val currentUserId = auth.currentUser!!.uid
+        val currentUserId = auth.currentUser?.uid
 
         val query = todoCollection.whereEqualTo("uid", currentUserId)
             .orderBy("text", Query.Direction.ASCENDING)

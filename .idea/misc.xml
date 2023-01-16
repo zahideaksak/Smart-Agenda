@@ -5,10 +5,11 @@
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.161" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.24879608154296876" />
+        <entry key="app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.1975" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.16573033707865167" />
         <entry key="app/src/main/res/layout/activity_sign_in.xml" value="0.19610507246376813" />
-        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.19610507246376813" />
-        <entry key="app/src/main/res/layout/add_new_task.xml" value="0.2737845158231431" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.19798657718120805" />
+        <entry key="app/src/main/res/layout/add_new_task.xml" value="0.335" />
         <entry key="app/src/main/res/layout/each_task.xml" value="0.21220550537109373" />
       </map>
     </option>
